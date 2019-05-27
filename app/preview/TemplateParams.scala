@@ -47,6 +47,7 @@ object TemplateParams {
       "tradingName" -> "ABC Accountants Ltd",
       "receivedDate" -> "20190214"
     ),
+    "client_accepted_authorisation_request" -> Map.empty[String, String],
     "apiDeveloperEmailVerification" -> Map(
       "verificationLink" -> exampleLinkWithRandomId,
       "developerHubTitle" -> "Developer Hub Title"
